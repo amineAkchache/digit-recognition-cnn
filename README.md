@@ -123,8 +123,6 @@ Key packages (see `requirements.txt` for full list):
 ## 🙋 Author
 
 **Amine Akchache**  
-M.Sc. Computer Technology — Harbin Institute of Technology, Shenzhen  
-GitHub: [@amineAkchache](https://github.com/amineAkchache)
 
 ---
 
