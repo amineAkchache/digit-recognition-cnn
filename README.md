@@ -8,7 +8,7 @@ A web-based handwritten digit recognition app powered by a Convolutional Neural 
 
 > Draw a digit on the canvas → click **Predict** → see the result!
 
-*(Add a screenshot or GIF here)*
+
 
 ---
 
